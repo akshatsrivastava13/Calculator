@@ -1,0 +1,40 @@
+#clear{
+  width: 300px;
+  background: #ffb6b1;
+  height: 30px;
+
+}
+.formstyle{
+
+	background: #201104;
+  width: 300px;
+  height:480px;
+  margin: auto;
+}
+input{
+  width: 300px;
+  background-color: blue;
+  color: black;
+
+}
+#answerstyle{
+  width: 300px;
+  height: 80;
+  background: #bccd95;
+  }
+  #sign{
+background-color: #ff3232;
+padding: 0px;
+width: 91px;
+height: 50px;
+
+margin: 3px;
+}
+#numeric{
+	background-color: #ccfff1;
+	width: 91px;
+	height: 50px;
+  margin: 3px;
+
+
+}
